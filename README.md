@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Varun Kruthiventi</h1>
-<h3 align="center">Senior Software Engineer from Hyderabad, India</h3>
+<h3 align="center">Staff Engineer AI/ML from Hyderabad, India</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=saivarunk)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on [Fission Labs](https://www.fissionlabs.com/)
+- 🔭 I’m currently working on [Fanatics](https://fanatics.com/)
 
 - 🌱 I’m currently learning **Distributed Systems**
 
