@@ -98,14 +98,6 @@ I enjoy solving hard platform problems where **scale, reliability, cost, and dev
 
 ---
 
-## 🏆 GitHub Highlights
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=saivarunk&theme=flat&margin-w=15" />
-</p>
-
----
-
 ## 📫 Reach Me
 
 - 🌐 Website: https://varunk.me/
